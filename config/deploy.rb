@@ -3,7 +3,7 @@ lock "~> 3.17.0"
 
 set :application, "my_demo"
 set :scm, :git
-set :repo_url, "yrosvet:Abretyi05@hotmail.com@gitlab.rebrainme.com:devops_users_repos/2658/DO.git"
+set :repo_url, "yrosvet@hotmail.com:Abretyi05@gitlab.rebrainme.com:devops_users_repos/2658/DO.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
